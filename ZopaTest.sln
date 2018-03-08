@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZopaTest.App", "ZopaTest.App\ZopaTest.App.csproj", "{20188988-0D66-4344-B499-95798E4C0B3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZopaTest.Tests", "ZopaTest.Tests\ZopaTest.Tests.csproj", "{B5EC2A82-E8E4-4740-897A-C70615255C6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZopaTest.Calculator", "ZopaTest.Calculator\ZopaTest.Calculator.csproj", "{9DD93CCA-2A98-4793-99B7-751E7943273A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZopaTest.Contracts", "ZopaTest.Contracts\ZopaTest.Contracts.csproj", "{18255BA4-1CFB-4291-99F4-725751C678C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZopaTest.Model", "ZopaTest.Model\ZopaTest.Model.csproj", "{EFF91F40-D64D-4DC4-AF75-91F691C9B94F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZopaTest.Readers", "ZopaTest.Readers\ZopaTest.Readers.csproj", "{C54F6178-6743-45A3-8744-27E832FBBE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20188988-0D66-4344-B499-95798E4C0B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20188988-0D66-4344-B499-95798E4C0B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20188988-0D66-4344-B499-95798E4C0B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20188988-0D66-4344-B499-95798E4C0B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EC2A82-E8E4-4740-897A-C70615255C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EC2A82-E8E4-4740-897A-C70615255C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EC2A82-E8E4-4740-897A-C70615255C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EC2A82-E8E4-4740-897A-C70615255C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD93CCA-2A98-4793-99B7-751E7943273A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD93CCA-2A98-4793-99B7-751E7943273A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD93CCA-2A98-4793-99B7-751E7943273A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD93CCA-2A98-4793-99B7-751E7943273A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18255BA4-1CFB-4291-99F4-725751C678C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18255BA4-1CFB-4291-99F4-725751C678C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18255BA4-1CFB-4291-99F4-725751C678C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18255BA4-1CFB-4291-99F4-725751C678C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF91F40-D64D-4DC4-AF75-91F691C9B94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF91F40-D64D-4DC4-AF75-91F691C9B94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF91F40-D64D-4DC4-AF75-91F691C9B94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF91F40-D64D-4DC4-AF75-91F691C9B94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54F6178-6743-45A3-8744-27E832FBBE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54F6178-6743-45A3-8744-27E832FBBE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54F6178-6743-45A3-8744-27E832FBBE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54F6178-6743-45A3-8744-27E832FBBE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2206DE6-BC45-4754-905A-DFE8B44DD20C}
+	EndGlobalSection
+EndGlobal

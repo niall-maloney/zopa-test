@@ -1,0 +1,6 @@
+﻿{
+  "minLoanAmount": 1000,
+  "maxLoanAmount": 15000,
+  "loanIncrement": 100,
+  "loanDuration":  36
+}
