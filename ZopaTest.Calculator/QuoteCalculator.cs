@@ -50,14 +50,14 @@ namespace ZopaTest.Calculator
                 else
                     borrow = offer.Available;
 
-                rate += offer.Rate;
-
+                rate += offer.Rate * (borrow/loanAmount);
+                
                 lenders++;
 
                 if ((totalBorrowed += borrow) >= loanAmount) break;
             }
 
-            return rate / lenders;
+            return rate;
         }
     }
 }

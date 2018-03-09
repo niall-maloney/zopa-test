@@ -28,10 +28,10 @@ namespace ZopaTest.Tests
             };
 
             var quote = quoteCalculator.CalculateQuote(loanRequest, offers);
-
-            Assert.AreEqual(0.072m, quote.Rate);
-            Assert.AreEqual(34.452822378738333333333333333m, quote.MonthlyRepayment);
-            Assert.AreEqual(1240.30160563458m, quote.TotalRepayment);
+            
+            Assert.AreEqual(0.07284m, quote.Rate);
+            Assert.AreEqual(34.539230845287222222222222222m, quote.MonthlyRepayment);
+            Assert.AreEqual(1243.41231043034m, quote.TotalRepayment);
         }
     }
 }
