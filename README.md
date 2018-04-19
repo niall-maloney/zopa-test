@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9p9p8lu9i4q4kijg?svg=true)](https://ci.appveyor.com/project/niall-maloney/zopa-test)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/250d22aeeaec49678635e05055f9d834)](https://www.codacy.com/app/niall-maloney/zopa-test?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=niall-maloney/zopa-test&amp;utm_campaign=Badge_Grade)
 
 # Zopa Technical Test
