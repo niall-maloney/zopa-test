@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/250d22aeeaec49678635e05055f9d834)](https://www.codacy.com/app/niall-maloney/zopa-test?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=niall-maloney/zopa-test&amp;utm_campaign=Badge_Grade)
+
 # Zopa Technical Test
 There is a need for a rate calculation system allowing prospective borrowers to obtain a quote from our pool of lenders for 36 month loans. This system will take the form of a command-line application.
 
